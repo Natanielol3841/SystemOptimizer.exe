@@ -9,6 +9,12 @@ Disables TaskMgr.
 Makes you type a password (can be bypassed by signing out and back in)
 
 # How to restore the files?
+# Method 1
+1. Execute Virus
+2. Type YourSecretPassword
+3. Press Enter
+
+# Method 2
 1. When you execute it. Sign out and in.
 2. Press WIN + R and type %APPDATA%\HiddenFiles
 3. In there. Grab all of the files and put them to the spots
